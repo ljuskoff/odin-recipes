@@ -1,0 +1,17 @@
+/* style.css */
+
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    background-color: wheat;
+}
+
+h1 {
+    text-align: center;
+    font-weight: bold;
+}
+
+img {
+    width: 300px;
+    height: auto;
+}
