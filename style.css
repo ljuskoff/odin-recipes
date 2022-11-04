@@ -22,7 +22,8 @@ img {
 }
 
 .punchline {
-    color: purple;
-    background-color:silver;
+    color: white;
+    background-color:lightskyblue;
     font-style: oblique;
+    font-weight: 700;
 }
